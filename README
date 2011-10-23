@@ -1,1 +1,8 @@
 data from massgis to be tweaked for use in openstreet maps concerning borders in MA
+currently its the raw output from taking the townsurvey_arc shapefile from massgis, querring out the coastlines, and converting it to .osm with merkaator.  
+todo
+-<u>tag outline as admin_level=4 done</u>
+-tag counties as 6
+-tag rest as 8
+-relations
+
